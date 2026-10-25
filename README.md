@@ -2,6 +2,8 @@
 
 Dashboard interativo de BI feito em HTML, CSS e JavaScript puros, a partir de um catálogo de produtos da Amazon Índia. O visual segue a identidade da marca (azul-marinho e laranja) e o logo é usado como banner.
 
+Para visualização: https://dashboard-amazon-eta.vercel.app/
+
 ## Capturas de tela
 
 ### Visão geral
